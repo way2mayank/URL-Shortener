@@ -60,7 +60,7 @@ A full-stack web application for shortening URLs with user authentication, analy
    ```
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/url-shortener
-   JWT_SECRET=your_super_secret_jwt_key_change_in_production
+   JWT_SECRET=Secret_Key
    NODE_ENV=development
    CLIENT_URL=http://localhost:3000
    ```
